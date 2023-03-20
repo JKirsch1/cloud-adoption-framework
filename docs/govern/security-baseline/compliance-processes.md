@@ -12,15 +12,15 @@ ms.custom: internal
 
 # Security Baseline policy compliance processes
 
-This article discusses an approach to policy adherence processes that govern the [Security Baseline discipline](./index.md). Effective governance of cloud security starts with recurring manual processes designed to detect vulnerabilities and impose policies to remediate those security risks. This requires regular involvement of the cloud governance team and interested business and IT stakeholders to review and update policy and ensure policy compliance. In addition, many ongoing monitoring and enforcement processes can be automated or supplemented with tooling to reduce the overhead of governance and allow for faster response to policy deviation.
+This article discusses an approach to policy adherence processes that govern the [Security Baseline discipline](./index.md). Effective governance of cloud security starts with recurring manual processes. These processes are designed to detect vulnerabilities and impose policies to remediate those security risks. Using these processes requires that the cloud governance team and interested business and IT stakeholders regularly review and update policies and ensure policy compliance. Many ongoing monitoring and enforcement processes can also be automated or supplemented with tooling. This practice reduces the overhead of governance and allows for faster response to policy deviation.
 
 ## Planning, review, and reporting processes
 
-The best Security Baseline tools in the cloud are only as good as the processes and policies that they support. The following is a set of example processes commonly involved in the Security Baseline discipline. Use these examples as a starting point when planning the processes that will allow you to continue to update security policy based on business change and feedback from the security and IT teams tasked with turning governance guidance into action.
+The best Security Baseline tools in the cloud are only as good as the processes and policies that they support. The following example processes are commonly involved in the Security Baseline discipline. They can be a good resource when you update your security policy. Typically, you update your policy based on business change and feedback. The feedback comes from security and IT teams that are tasked with turning governance guidance into action. Use these examples as a starting point when you update your policy.
 
-**Initial risk assessment and planning:** As part of your initial adoption of the Security Baseline discipline, identify your core business risks and tolerances related to cloud security. Use this information to discuss specific technical risks with members of your IT and security teams and develop a baseline set of security policies for mitigating these risks to establish your initial governance strategy.
+**Initial risk assessment and planning:** As part of your initial adoption of the Security Baseline discipline, identify your core business risks and tolerances that are related to cloud security. Use this information to discuss specific technical risks with members of your IT and security teams. As part of that discussion, establish your initial governance strategy by developing a baseline set of security policies for mitigating these risks.
 
-**Deployment planning:** Before deploying any workload or asset, perform a security review to identify any new risks and ensure all access and data security policy requirements are met.
+**Deployment planning:** Before you deploy any workload or asset, perform a security review. In that review, identify any new risks, and ensure all access and data security policy requirements are met.
 
 **Deployment testing:** As part of the deployment process for any workload or asset, the cloud governance team, in cooperation with your corporate security teams, will be responsible for reviewing the deployment to validate security policy compliance.
 
